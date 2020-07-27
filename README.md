@@ -1,6 +1,6 @@
 # MultivanCoolerBox
 
-Hierbei handelt es sich um ein Selstbauprojekt für eine Kühlbox-Box für eine Kühlbox Dometic CW35 zur Verwendung in einem VW T5 Multivan.
+This is a do-it-yourself project to integrate a Dometic CW35 cooler into a VW Multivan
 
 ## Overview
 
