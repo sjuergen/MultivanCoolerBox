@@ -4,7 +4,7 @@
 
 The box for the cooler is also a support for the mattress
 
-(The picture shows the version wip (work in progress))
+(The picture shows the version wip (work in progress)
 
 <center>
     <table>
