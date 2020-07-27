@@ -1,8 +1,10 @@
 # Overview
 
-## Mounted into my Multivan
+## Cooler Box mounted in the Multivan
 
 The box for the cooler is also a support for the mattress
+
+(The picture shows the version wip (work in progress)
 
 <center>
     <table>
