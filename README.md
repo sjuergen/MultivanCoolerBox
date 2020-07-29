@@ -2,9 +2,8 @@
 
 This is a do-it-yourself project to integrate a Dometic CW35 cooler into a VW Multivan
 
-## Overview
-
-[Overview](Doc/Images.md)
+[Overview](Doc/Images.md)  
+[Technical Data](Doc/TechnicalData.md)
 
 # [Lizenz](Licence.md)
 
