@@ -13,7 +13,8 @@ This is a do-it-yourself project to integrate a Dometic CW35 cooler into a VW Mu
 </center>
 
 [Overview](Doc/Images.md)  
-[Technical Data](Doc/TechnicalData.md)
+[Technical Data](Doc/TechnicalData.md)  
+[Electical installation](Doc/ElectricalInstallation.md)
 
 # [Lizenz](Licence.md)
 
